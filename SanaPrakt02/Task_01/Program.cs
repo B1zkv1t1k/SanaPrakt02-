@@ -1,6 +1,6 @@
-﻿Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+﻿Console.WriteLine("Hi");
+Console.WriteLine("What's up?");
+Console.WriteLine("Great");
 Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
 Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
 Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
