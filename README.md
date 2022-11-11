@@ -13,3 +13,6 @@
  - [x] GitHub
  - [ ] GitLab
  - [ ] Bitbacket
+
+**Виконав**
+Вознюк Андрій
